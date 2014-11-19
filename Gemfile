@@ -51,6 +51,8 @@ group :development, :test do
   gem 'spring',      '1.1.3'
 end
 
+gem 'bcrypt-ruby', '3.1.2'
+
 
 
 # Use ActiveModel has_secure_password
